@@ -45,3 +45,8 @@ websource: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 - Feature Extraction
 - Test Classifiers / Evaluation
 - Compute relation between age and sentiment for certain age ranges
+
+## Files
+
+- *final_dataset.csv* contains the reviews, the polarity of each review and the age of each customer
+- *Reviews_processed.csv* contains the reviews after text processing; This dataset is used later for feature extraction
